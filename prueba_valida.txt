@@ -1,0 +1,9 @@
+class SistemaEscolar {
+    int totalAlumnos;
+    boolean sistemaAbierto = true;
+    final int MAX_CALIFICACION = 100;
+
+    void registrar() {
+        escribir("Registrando...");
+    }
+}

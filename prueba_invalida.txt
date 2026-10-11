@@ -1,0 +1,9 @@
+class mi_sistema {
+    int AtributoIncorrecto;
+    final float VALOR_CONSTANTE;
+
+    void proceso() {
+        int x;
+        int x = 10;
+    }
+}
